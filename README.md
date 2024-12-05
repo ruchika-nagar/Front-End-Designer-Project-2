@@ -13,6 +13,6 @@ Flowy is a modern and responsive business website template, designed to help bus
 - **Footer:**Includes quick links and a subscription form.
 
 #### Tech Stack:
-HTML5 for structure
-CSS3 for styling
-Bootstrap 5 for responsiveness
+- HTML5 for structure
+- CSS3 for styling
+- Bootstrap 5 for responsiveness
