@@ -10,7 +10,7 @@ Flowy is a modern and responsive business website template, designed to help bus
 - **Projects Section:** Displays completed projects with categories and visuals.
 - **Testimonials Carousel:** Showcases client feedback dynamically.
 - **Contact Form:** Encourages users to connect with your business.
-- **Footer:**Includes quick links and a subscription form.
+- **Footer:** Includes quick links and a subscription form.
 
 #### Tech Stack:
 - HTML5 for structure
